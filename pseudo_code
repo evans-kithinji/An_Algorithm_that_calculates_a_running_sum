@@ -1,0 +1,8 @@
+Write ‘Enter numbers to calculate the running sum Enter negative number to stop’
+Read num
+Set sum equal to 0
+While num is positive
+	Add sum to num
+	Write ‘The total sum is sum’
+Else
+	Write ‘Sorry, your number is negative. Stopping calculation’
